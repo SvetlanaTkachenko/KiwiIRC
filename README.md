@@ -1,6 +1,8 @@
 # Note - This version is no longer in active development!
 # The new, better version is here: https://github.com/kiwiirc/kiwiirc
 
+(This is a copy of prawnsalad/KiwiIRC with nick coloring disabled. No additional maintainance or changes have been made.)
+
 ### This version of Kiwi IRC is only receiving bug and security updates
 
 This is a complete re-write and is now using much more modern development tools and includes over 5 years worth of knowledge on how people use web IRC clients. If you are looking for the latest and greatest IRC features then this new version is the way to go!
